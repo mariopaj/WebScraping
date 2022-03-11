@@ -5,4 +5,6 @@ El objetivo de este repositorio es realizar un comparador de cestas de la compra
 
 ## Carpetas
 
+- Escrapeo DIA: Sacamos los productos y los precios divididos por subcategorísa del Supermercado DIA
+- Escrapeo Mercadona: Sacamos los productos y los precios divididos por subcategorísa del Supermercado Mercadona
 - 
