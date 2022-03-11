@@ -7,4 +7,4 @@ El objetivo de este repositorio es realizar un comparador de cestas de la compra
 
 - Escrapeo DIA: Sacamos los productos y los precios divididos por subcategorísa del Supermercado DIA
 - Escrapeo Mercadona: Sacamos los productos y los precios divididos por subcategorísa del Supermercado Mercadona
-- 
+- Glosario_FQ: Elaboración de funciones para la extracción de preguntas frecuentes de la Web para futuro posicionamiento
